@@ -3,3 +3,6 @@ Scale:
 
 Filename:
 Scale:
+
+
+8 Types of Allergies:
