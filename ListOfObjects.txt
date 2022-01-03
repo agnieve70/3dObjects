@@ -5,4 +5,7 @@ Filename:
 Scale:
 
 
-8 Types of Allergies:
+8 Types of Allergies: Milk, Egg, Fish, Peanut, Tree Nuts, Soy, Wheat, Shellfish
+
+
+
