@@ -1,33 +1,59 @@
 File Name: Salmon_empanadas
 Details: Salmon Fillets, Pie Crust, Fresh Parsely and Fresh Basil
 Sauce: Butter, Flour, dry mustard, salt, pepper, milk, shredded gruyere cheese
+<<<<<<< HEAD
 Allergies: Fish,Milk,cheese
 Category: Halal
+=======
+Allergies: 
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
 
 File Name: roasted_chicken
 Details: Whole Chicken(giblets removed), salt, pepper, onion powder, margarine, amd potato
 Allergies: 
+<<<<<<< HEAD
 Category: Halal, Keto
 
 File Name: Chicken_Meal
 Details: fried rice with egg, fried chicken, lemon, onion, and ketchup
 Allergies: egg
 Category: Halal,
+=======
+Category:
+
+File Name: Chicken_Meal
+Details: fried rice with egg, fried chicken, lemon, onion, and ketchup
+Allergies: 
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
 
 File name: croissant_norweski
 Details: croissant, cocumber, tomato, bacon cheese, letuce, 
 Allergies: 
+<<<<<<< HEAD
 Category: Halal
+=======
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
 
 File Name: Kebab
 Details: Lamb and mutton, ground meat, onion, garlic, chili pepper, black pepper
 Allergies: 
+<<<<<<< HEAD
 Category: halal, keto
+=======
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
 
 File Name: florence_steak
 Details: T-bone or porterhouse steak, rosemary, sage, olive oil, salt and black pepper
 Allergies: 
+<<<<<<< HEAD
 Category: halal, keto
+=======
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
 
 File Name: Togsilog
 Details: Sinangag is garlic fried rice at the bottom.
@@ -39,6 +65,7 @@ Category: keto
 
 File Name: Meal1
 Details: Bread, meat or sausage, cheese, eggs, veggies, herbs, salad
+<<<<<<< HEAD
 Allergies: egg, cheese
 Category: halal,
 
@@ -57,10 +84,30 @@ Details: Bavarian bread rolls, tomato, cheese, cucumber, sesame seed
 Allergies: cheese
 Category:vegan, halal
 
+=======
+Allergies: 
+Category:
+
+File Name: Meal2
+Details: Rhein bread with a layer of butter, and cheese on the top or the side
+Allergies: 
+Category:
+
+File Name: Vegie_Bowl
+Details: Carrots, broccoli, potato, green beans, corn
+Allergies:
+Category: 
+
+File Name: Meal3
+Details: Bavarian bread rolls, tomato, cheese, cucumber, sesame seed
+Allergies: 
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
 
 File Name: Meal4
 Details: Strawberry, bread, fig, glaze
 Sauce: Cream cheese, butter, powdered sugar, milk, vanilla extract
+<<<<<<< HEAD
 Allergies: cheese milk
 Category: vegan, halal
 
@@ -114,3 +161,12 @@ Vanilla Extract
 Category: keto, vegan,halal
 
 
+=======
+Allergies: 
+Category:
+
+File Name: sashimi_plate
+Details: Daikon radish, tuna, sashimi grade, block yellowtail, fillet salmon, shiso leaves, wasabi, and soy sauce
+Allergies: 
+Category:
+>>>>>>> 830b29cd21083488932efc1cb1dd1e063495e9a3
