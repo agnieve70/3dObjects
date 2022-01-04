@@ -1,57 +1,116 @@
 File Name: Salmon_empanadas
 Details: Salmon Fillets, Pie Crust, Fresh Parsely and Fresh Basil
 Sauce: Butter, Flour, dry mustard, salt, pepper, milk, shredded gruyere cheese
-Allergies: 
+Allergies: Fish,Milk,cheese
+Category: Halal
 
 File Name: roasted_chicken
 Details: Whole Chicken(giblets removed), salt, pepper, onion powder, margarine, amd potato
 Allergies: 
+Category: Halal, Keto
 
 File Name: Chicken_Meal
 Details: fried rice with egg, fried chicken, lemon, onion, and ketchup
-Allergies: 
+Allergies: egg
+Category: Halal,
 
 File name: croissant_norweski
 Details: croissant, cocumber, tomato, bacon cheese, letuce, 
 Allergies: 
+Category: Halal
 
 File Name: Kebab
 Details: Lamb and mutton, ground meat, onion, garlic, chili pepper, black pepper
 Allergies: 
+Category: halal, keto
 
 File Name: florence_steak
 Details: T-bone or porterhouse steak, rosemary, sage, olive oil, salt and black pepper
 Allergies: 
+Category: halal, keto
 
 File Name: Togsilog
 Details: Sinangag is garlic fried rice at the bottom.
  Next layer is the tocino (the cured pork belly). 
  Top it off with a fried egg. 
  Cucumber tomato relish on the side
-Allergies: 
+Allergies: egg
+Category: keto
 
 File Name: Meal1
 Details: Bread, meat or sausage, cheese, eggs, veggies, herbs, salad
-Allergies: 
+Allergies: egg, cheese
+Category: halal,
 
 File Name: Meal2
 Details: Rhein bread with a layer of butter, and cheese on the top or the side
-Allergies: 
+Allergies: cheese
+Category: Vegan, halal
 
 File Name: Vegie_Bowl
 Details: Carrots, broccoli, potato, green beans, corn
 Allergies: 
+Category: vegan, halal
 
 File Name: Meal3
 Details: Bavarian bread rolls, tomato, cheese, cucumber, sesame seed
-Allergies: 
+Allergies: cheese
+Category:vegan, halal
+
 
 File Name: Meal4
 Details: Strawberry, bread, fig, glaze
 Sauce: Cream cheese, butter, powdered sugar, milk, vanilla extract
-Allergies: 
+Allergies: cheese milk
+Category: vegan, halal
 
 File Name: sashimi_plate
 Details: Daikon radish, tuna, sashimi grade, block yellowtail, fillet salmon, shiso leaves, wasabi, and soy sauce
-Allergies: 
+Allergies: fish, 
+Category: Seafood, halal
+
+File Name: Paella
+Details: Paella Rice
+Shrimp
+Clam juice
+Water
+Parsley
+Tomato
+Green peas
+Onion
+Reb bell pepper
+Paprika
+Garlic paste
+Olive oil
+Salt
+Lemon
+
+Allergies:Shellfish
+Category: seafood, halal food
+
+File Name: Cinnamon rolls
+Details: Butter
+Flour
+Cream cheese
+Baker’s yeast
+Sugar
+Egg
+Powdered sugar
+Brown sugar
+Grounded cinnamon
+
+Allergies: egg, cheese
+Category:vegan, halal
+
+File name: Icecream
+Details: Cream
+Milk
+Vanilla
+Egg
+Condensed Milk
+Sugar
+Vanilla Extract
+
+Category: keto, vegan,halal
+
 
