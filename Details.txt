@@ -1,45 +1,57 @@
 File Name: Salmon_empanadas
 Details: Salmon Fillets, Pie Crust, Fresh Parsely and Fresh Basil
 Sauce: Butter, Flour, dry mustard, salt, pepper, milk, shredded gruyere cheese
+Allergies: 
 
 File Name: roasted_chicken
 Details: Whole Chicken(giblets removed), salt, pepper, onion powder, margarine, amd potato
+Allergies: 
 
 File Name: Chicken_Meal
 Details: fried rice with egg, fried chicken, lemon, onion, and ketchup
+Allergies: 
 
 File name: croissant_norweski
 Details: croissant, cocumber, tomato, bacon cheese, letuce, 
+Allergies: 
 
 File Name: Kebab
 Details: Lamb and mutton, ground meat, onion, garlic, chili pepper, black pepper
+Allergies: 
 
 File Name: florence_steak
 Details: T-bone or porterhouse steak, rosemary, sage, olive oil, salt and black pepper
+Allergies: 
 
 File Name: Togsilog
 Details: Sinangag is garlic fried rice at the bottom.
  Next layer is the tocino (the cured pork belly). 
  Top it off with a fried egg. 
  Cucumber tomato relish on the side
+Allergies: 
 
 File Name: Meal1
 Details: Bread, meat or sausage, cheese, eggs, veggies, herbs, salad
+Allergies: 
 
 File Name: Meal2
 Details: Rhein bread with a layer of butter, and cheese on the top or the side
+Allergies: 
 
 File Name: Vegie_Bowl
 Details: Carrots, broccoli, potato, green beans, corn
+Allergies: 
 
 File Name: Meal3
 Details: Bavarian bread rolls, tomato, cheese, cucumber, sesame seed
+Allergies: 
 
 File Name: Meal4
 Details: Strawberry, bread, fig, glaze
 Sauce: Cream cheese, butter, powdered sugar, milk, vanilla extract
+Allergies: 
 
 File Name: sashimi_plate
 Details: Daikon radish, tuna, sashimi grade, block yellowtail, fillet salmon, shiso leaves, wasabi, and soy sauce
-
+Allergies: 
 
