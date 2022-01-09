@@ -101,6 +101,40 @@ File Name: Belgian Waffle
 Details: Waffle, chocolate, Strawberry, blackberries
 Category:halal-keto-vegan
 
+File Name: Ravioli
+Details: flour, eggs, salt, ricota cheese, shredded part-skim mozzarella cheese, Parmesan cheese,
+fresh basil, fresh parsley, fresh oregano, garlic powder, pepper
+Sauce: crushed tomatoes, tomato puree, parmesan cheese, water, tomato paste, sugar, 
+minced fresh basil, oregano and parsley.
+Allergies: cheese, eggs
+Categorie: Vegan, Halal, Keto
+
+File Name: capuccino
+Details: finely ground dark roast coffee, water, milk, marshmallow
+Allergies: milk
+Category: vegan, halal, keto
+
+File Name: Salmonroe sushi
+Details: japanese short grain rice, rice vinegar, caster sugar, salt, salmon roe, nori, wasabi,
+pickled ginger, tamari
+category: vegan, halal, keto
+
+File Name: red velvet cake
+Details: shortening, white sugar, eggs, cocoa, red food coloring, salt, vanilla extract, buttermilk,
+all-purpose flour, baking soda, distilled white vinegar, milk, butter, 
+Allergies: 
+Categoy: vegan, keto, halal
+
+File Name: donuts
+Details: flour, sugar, eggs, butter, powdered sugar, baker's yeast, baking powder, chocoloate glaze,
+strabery glaze, sprinkles
+Category: vegan, halal, keto
+
+File Name: spicy ramen
+Details: beef shank, ramen noodles, soy sauce, garlic, shallots, ginger, chili  pepper, green onion,
+sugar, beef stocked powder, cooking oil, water, blackpepper, chili flakes
+Category: halal, keto
+
 
 
 
